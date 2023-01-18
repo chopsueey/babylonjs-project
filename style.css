@@ -1,0 +1,62 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: black;
+}
+
+.babylonjs-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+#renderCanvas {
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  position: absolute;
+  top: 50;
+  /* margin: 0 auto; */
+  color: white;
+}
+
+.current-variables {
+  background-color: black;
+  position: absolute;
+  top: 20%;
+  left: 12%;
+  display: flex;
+  flex-direction: column;
+}
+
+.current-variables div {
+  background-color: white;
+  margin: 2px;
+  padding: 2px;
+}
+
+/* .drop-marbles {
+  background-color: white;
+  color: green;
+  font-size: 1.5rem;
+  font-weight: 900;
+
+  position: absolute;
+  top: 15%;
+  left: 12%;
+
+  padding: 4px;
+}
+
+.drop-marbles:hover {
+    background-color: grey;
+    color: greenyellow;
+} */
