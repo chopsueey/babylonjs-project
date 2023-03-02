@@ -1,4 +1,4 @@
-### https://babylonjs-project.vercel.app/
+## https://babylonjs-project.vercel.app/
 
 ![gameplay photo](https://i.imgur.com/16UHFG2.png)
 
@@ -11,7 +11,7 @@ To get your mouse back, press escape.
 Use arrow-keys to move.
 
 
-To play with the code:
+#### To play with the code:
 
 clone the repository,
 
