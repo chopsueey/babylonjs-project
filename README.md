@@ -1,6 +1,6 @@
 ### https://babylonjs-project.vercel.app/
 
-[gameplay photo](https://i.imgur.com/16UHFG2.png)
+![gameplay photo](https://i.imgur.com/16UHFG2.png)
 
 
 #### Movement and Camera
