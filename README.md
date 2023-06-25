@@ -1,6 +1,8 @@
 ## https://babylonjs-project.vercel.app/
 
-![gameplay photo](https://i.imgur.com/16UHFG2.png)
+### may currently not work properly on all browsers due to new webgl version
+
+![gameplay photo](./assets/marble-massacre.gif)
 
 
 #### Movement and Camera
